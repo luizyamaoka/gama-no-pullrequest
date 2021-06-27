@@ -17,3 +17,7 @@
 
 ## Abra um PullRequest com suas alterações
 
+O que estou achando do curso?
+
+Tudo otimo por enquanto, aguardando novos conteudos
+
